@@ -1,3 +1,0 @@
-/home/aaron/CUDA_Benchmark/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/aaron/CUDA_Benchmark/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/aaron/CUDA_Benchmark/cmake-build-debug/CMakeFiles/CUDA_Benchmark.dir
