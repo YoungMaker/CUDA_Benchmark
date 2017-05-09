@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/CUDA_Benchmark.dir/Benchmark.cpp.o  -o CUDA_Benchmark 
