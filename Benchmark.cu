@@ -224,7 +224,7 @@ long cpu_bmark(int N, int M)
 
 int main(int argc, char **argv) {
     printf("input size, GPU time\n");
-    for(int i=2750; i<=5000; i+=250) {
+    for(int i=5000; i<=8000; i+=250) {
         printf("%i, %li\n",i, gpu_bmark(i,i));
     }
 }
